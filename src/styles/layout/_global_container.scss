@@ -2,3 +2,12 @@
   display: flex;
   min-height: 100vh;
 }
+
+.quill{
+  .ql-snow .ql-picker{
+    color: #fff;
+  }
+  .ql-snow .ql-stroke{
+    stroke: #fff;
+  }
+}
